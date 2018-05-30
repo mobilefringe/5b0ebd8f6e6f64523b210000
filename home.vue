@@ -150,6 +150,7 @@
                     // });
                     
                     // return _.orderBy(this.$store.state.banners, ['position'], ['asc']);
+                    var banners = [];
                     return _.orderBy(banners, ['position'], ['asc']);
                 },
                 feature_items () {
