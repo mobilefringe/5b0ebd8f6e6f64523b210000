@@ -1453,6 +1453,9 @@ strong, .bold {
                 font-size: 1rem;
             }
         }
+        .slick-dots button {
+            
+        }
         
     }
     #home_hours_container {
