@@ -152,8 +152,8 @@
                     // return _.orderBy(this.$store.state.banners, ['position'], ['asc']);
                     var banners = [];
                     _.each(array, function (value, key) {
-  console.log(value, key);
-});
+                        console.log(value, key);
+                    });
                     return _.orderBy(banners, ['position'], ['asc']);
                 },
                 feature_items () {
