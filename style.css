@@ -1453,6 +1453,9 @@ strong, .bold {
                 font-size: 1rem;
             }
         }
+        .slick-dots {
+            bottom: -5px;
+        }
         .slick-dots button {
             width: 15px;
             height: 15px;
